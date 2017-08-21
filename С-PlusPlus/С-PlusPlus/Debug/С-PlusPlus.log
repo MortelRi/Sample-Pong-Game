@@ -1,0 +1,12 @@
+﻿  Ball.cpp
+c:\users\mortel\desktop\sample pong game\с-plusplus\с-plusplus\ball.cpp(35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\mortel\desktop\sample pong game\с-plusplus\с-plusplus\ball.cpp(36): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\mortel\desktop\sample pong game\с-plusplus\с-plusplus\ball.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Sprite.cpp
+  Player.cpp
+  Main.cpp
+  Enemy.cpp
+  С-PlusPlus.vcxproj -> C:\Users\Mortel\Desktop\Sample Pong Game\С-PlusPlus\Debug\С-PlusPlus.exe
+  С-PlusPlus.vcxproj -> C:\Users\Mortel\Desktop\Sample Pong Game\С-PlusPlus\Debug\С-PlusPlus.pdb (Partial PDB)

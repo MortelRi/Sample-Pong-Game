@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/fancy-ball.png</File>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/fancy-court.png</File>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/fancy-paddle-blue.png</File>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/fancy-paddle-green.png</File>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/fancy-paddle-grey.png</File>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/Font.spritefont</File>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/Pop.wav</File>
+    <File>C:/Users/Mortel/Desktop/Sample Pong Game/C-Sharp (MonoGame)/C-Sharp (MonoGame)/Content/Score.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,31 @@
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\C-Sharp (MonoGame).exe
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\C-Sharp (MonoGame).pdb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\obj\x86\Debug\C-Sharp (MonoGame).csprojResolveAssemblyReference.cache
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\obj\x86\Debug\C-Sharp (MonoGame).exe
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\obj\x86\Debug\C-Sharp (MonoGame).pdb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\fancy-ball.xnb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\fancy-court.xnb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\fancy-paddle-blue.xnb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\fancy-paddle-green.xnb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\fancy-paddle-grey.xnb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\Pop.xnb
+C:\Users\Mortel\Desktop\Sample Pong Game\C-Sharp (MonoGame)\C-Sharp (MonoGame)\bin\Windows\x86\Debug\Content\Score.xnb
